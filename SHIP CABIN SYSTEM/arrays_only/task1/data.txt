@@ -1,0 +1,12 @@
+Cabin : 0    Passengers Name : w
+Cabin : 1    Passengers Name : w
+Cabin : 2    Passengers Name : d
+Cabin : 3    Passengers Name : r
+Cabin : 4    Passengers Name : r
+Cabin : 5    Passengers Name : g
+Cabin : 6    Passengers Name : m
+Cabin : 7    Passengers Name : k
+Cabin : 8    Passengers Name : g
+Cabin : 9    Passengers Name : r
+Cabin : 10    Passengers Name : q
+Cabin : 11    Passengers Name : empty cabin
